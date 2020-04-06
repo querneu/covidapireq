@@ -1,0 +1,22 @@
+{
+  "name": "covidapireq",
+  "version": "1.0.0",
+  "description": "Node application that request stats via api from Coronavirus Statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/querneu/covidapireq.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/querneu/covidapireq/issues"
+  },
+  "homepage": "https://github.com/querneu/covidapireq#readme",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
